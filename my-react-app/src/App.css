@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.post {
+  margin-bottom: 4em;
+}
+
+.post h4 {
+  font-size: 2rem;
+}
